@@ -1,0 +1,24 @@
+{
+  "ver": "1.01",
+  "title": "Innovexa",
+  "afterLogin": "http://localhost:49888/application",
+  "loginUrl": "http://localhost:49000/auth-client/#user/login",
+  "defaultLanguage": "en",
+  "languages": {
+    "en": {
+      "index": "en",
+      "show": true,
+      "icon": "/language/flags/GB.png"
+    },
+    "fr": {
+      "index": "fr",
+      "show": true,
+      "icon": "/language/flags/FR.png"
+    },
+    "br": {
+      "index": "br",
+      "show": false,
+      "icon": "/language/flags/BR.png"
+    }
+  }
+}
